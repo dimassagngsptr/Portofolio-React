@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "user 1",
+      "email": "user1@gmail.com",
+      "password": "1234"
+    },
+    {
+      "name": "user 2",
+      "email": "user2@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "user 3",
+      "email": "user3@gmail.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "name": "Dimas Ageng",
+      "email": "dimas@gmail.com",
+      "password": "dimas123",
+      "id": 4
+    },
+    {
+      "name": "dims",
+      "email": "dims@gmail.com",
+      "password": "dims123",
+      "id": 5
+    }
+  ],
+  "tweets": [
+    {
+      "tweet": "test",
+      "name": "user 1",
+      "email": "user1@gmail.com",
+      "id": 1
+    },
+    {
+      "tweet": "test2",
+      "name": "user 1",
+      "email": "user1@gmail.com",
+      "id": 2
+    },
+    {
+      "tweet": "halo saya dimas",
+      "name": "Dimas Ageng",
+      "email": "dimas@gmail.com",
+      "id": 3
+    },
+    {
+      "tweet": "test1",
+      "name": "user 1",
+      "email": "user1@gmail.com",
+      "id": 4
+    },
+    {
+      "tweet": "sadsadsad",
+      "name": "user 1",
+      "email": "user1@gmail.com",
+      "id": 5
+    },
+    {
+      "tweet": "        ",
+      "name": "user 1",
+      "email": "user1@gmail.com",
+      "id": 6
+    }
+  ]
+}
